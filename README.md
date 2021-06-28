@@ -23,3 +23,5 @@
 [Course Catalogue / Course Codes](https://docs.google.com/spreadsheets/d/1wbQXuBVrOibPaBVt9mGuNOwhHN0PzN25n83b0hSk_To/edit#gid=802813267)
 
 [a/A Curriculum Overview](https://docs.google.com/presentation/d/13RCI4DVjKjAjmMPcC4bV6gM_A3FnLdBlYMI3-BXnwwM/edit#slide=id.gb9f56f97df_0_30)
+
+[Github Group - Add Repo Access](https://github.com/orgs/appacademy/teams/2021-06-01-online-students/repositories)
