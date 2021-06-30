@@ -25,3 +25,5 @@
 [a/A Curriculum Overview](https://docs.google.com/presentation/d/13RCI4DVjKjAjmMPcC4bV6gM_A3FnLdBlYMI3-BXnwwM/edit#slide=id.gb9f56f97df_0_30)
 
 [Github Group - Add Repo Access](https://github.com/orgs/appacademy/teams/2021-06-01-online-students/repositories)
+
+[Weekly Feedback Sheet](https://docs.google.com/spreadsheets/d/1898Saym6kFrYipmbC1FOucoO8UcXufiPowyJnZSNX-U/edit#gid=428201063)
