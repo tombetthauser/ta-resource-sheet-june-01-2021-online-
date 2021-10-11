@@ -1,5 +1,17 @@
 # TA Resource Links - June 01 Online Cohort 2021
 
+[Capstone Project Week Google Doc](https://docs.google.com/document/d/1Sgcrhfpx5P4Qa4_1QrEcSkkpessFukII14lXSTxThqA/edit)
+
+[TA Interview Technical Question Hackmd](https://hackmd.io/@barrymattern/B1-J-s2xY)
+
+[Module 7 Resource Google Sheet / Speadsheet](https://docs.google.com/spreadsheets/d/1JvT9QLwi7TX274YuHwGOyu8ltjcGgM0Jwx1sqBdf__E/edit#gid=199814434)
+
+[Capstone Scorecard Example](https://docs.google.com/spreadsheets/d/17Gwcz7jK1Lw3uLPWYlCVfO4asuzWbuJQAff831_JwLQ/edit#gid=122240886)
+
+[Module 7 Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_al83m9o7es4b69frh3mk41ia68@group.calendar.google.com&ctz=America/New_York)
+
+***
+
 [Cohort Tracking Sheet](https://docs.google.com/spreadsheets/d/1F_EAAV-Xy4IXjSOY_9Q2B8bWGpxQwfbxn8rERofPlCM/edit#gid=969165848)
 
 [Cohort Google Group](https://groups.google.com/u/2/a/appacademy.io/g/2021-06-01-online/members)
