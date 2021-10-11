@@ -41,3 +41,7 @@
 [Weekly Feedback Sheet](https://docs.google.com/spreadsheets/d/1898Saym6kFrYipmbC1FOucoO8UcXufiPowyJnZSNX-U/edit#gid=428201063)
 
 [Deferral Policies (in-depth)](https://docs.google.com/document/d/1YqzRq94F5-I_Z5TIucjSQ_z8WBK6Dd9a_1tb5a25xbg/edit#heading=h.rsfprdx9ejl9)
+
+***
+
+[Mark Rodriguez Tiny App Projects](https://www.tinyapp.live/)
