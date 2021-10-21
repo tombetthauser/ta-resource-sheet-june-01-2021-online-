@@ -45,3 +45,9 @@
 ***
 
 [Mark Rodriguez Tiny App Projects](https://www.tinyapp.live/)
+
+***
+
+[June 1 Capstone Project Request Form](https://docs.google.com/spreadsheets/d/1MJ6ucKF1teNIVZeRagXDGsc4zhFzAKDKS7_xYeE-oWQ/edit#gid=1836731086)
+
+[Module 7 Resource Sheet](https://docs.google.com/spreadsheets/d/1JvT9QLwi7TX274YuHwGOyu8ltjcGgM0Jwx1sqBdf__E/edit#gid=818468719)
