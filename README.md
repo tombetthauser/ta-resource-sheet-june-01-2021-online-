@@ -1,24 +1,24 @@
-# TA Resource Links - June 01 Online Cohort 2021
+# TA Links / Resources
 
-## Links for Tom / TAs
+## Nov 08 Online Cohort 2021
 
 [east sheet](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=317000197)
+
 [west sheet](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=294182236)
 
+[holiday dates](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
 
-https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0
+[west sheet (duplicate?)](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371)
 
-https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371
+[east sheet (duplicate?)](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=146399371)
 
-https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=146399371
+[SIS - Nov Enrolled Students](https://sis.appacademy.tools/cohorts/30)
 
-https://sis.appacademy.tools/cohorts/30
+[CMT - Course Codes / Enrollments](https://cmt.appacademy.tools/tracks/JS%2FPy%20-%20PT%20Nov%202021%20Online)
 
-https://cmt.appacademy.tools/tracks/JS%2FPy%20-%20PT%20Nov%202021%20Online
+[Tom Feedback](https://docs.google.com/spreadsheets/d/1Lr2M8CLfZePVgCt7gVttnbUYC9WoJzocCwyQFCXt1I4/edit#gid=0)
 
-https://docs.google.com/spreadsheets/d/1Lr2M8CLfZePVgCt7gVttnbUYC9WoJzocCwyQFCXt1I4/edit#gid=0
-
-https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day
+[SWEO Part-Time Resources Repo](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
 
 https://github.com/appacademy/unified-setup/blob/main/macos-setup.md
 
@@ -36,7 +36,8 @@ https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6
 
 [aa_update](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
 
-***
+
+## June 01 Online Cohort 2021
 
 [Capstone Project Week Google Doc](https://docs.google.com/document/d/1Sgcrhfpx5P4Qa4_1QrEcSkkpessFukII14lXSTxThqA/edit)
 
