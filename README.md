@@ -1,4 +1,4 @@
-# TA Links / Resources
+# Tom's Select TA Links / Resources
 
 ## Nov 08 Online Cohort 2021
 
