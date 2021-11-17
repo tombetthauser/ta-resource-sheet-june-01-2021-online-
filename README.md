@@ -6,6 +6,14 @@
 
 [west sheet](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=294182236)
 
+***
+
+[east lecture signups tab](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=402353008)
+
+[west lecture signups tab](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=402353008)
+
+***
+
 [holiday dates](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
 
 [west sheet (duplicate?)](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371)
@@ -20,15 +28,13 @@
 
 [SWEO Part-Time Resources Repo](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
 
-https://github.com/appacademy/unified-setup/blob/main/macos-setup.md
+[unified setup](https://github.com/appacademy/unified-setup/blob/main/macos-setup.md)
 
-https://docs.google.com/spreadsheets/d/1iZ2vG72pR9pSgnFCxBL4KizVEqHo4qvGH3U4JuYPVTU/edit?pli=1#gid=1839841640
+[curriculum notes for mods 1+2](https://docs.google.com/spreadsheets/d/1jGXeJsdkbXs2S4n_2Q8j254sfIvms0CVJc7LhcnE-cA/edit#gid=447629077)
 
-https://docs.google.com/spreadsheets/d/1jGXeJsdkbXs2S4n_2Q8j254sfIvms0CVJc7LhcnE-cA/edit#gid=447629077
+[daily / weekly schedule for part-time program](https://docs.google.com/spreadsheets/d/1TPt7jUX0nX-3LT5E6eNNtIOyR09GBOI0GsxjXyDM248/edit#gid=0)
 
-https://docs.google.com/spreadsheets/d/1TPt7jUX0nX-3LT5E6eNNtIOyR09GBOI0GsxjXyDM248/edit#gid=0
-
-https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6ezU/edit#slide=id.ge8c8ae71d9_0_2445
+[day one orientation](https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6ezU/edit#slide=id.ge8c8ae71d9_0_2445)
 
 [holiday list / TA facing](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
 
@@ -38,6 +44,8 @@ https://docs.google.com/presentation/d/1rNknQOs6i7SUjspfmdTStPDWg_Pem_h3djKE37t6
 
 
 ## June 01 Online Cohort 2021
+
+[job search tracker](https://docs.google.com/spreadsheets/d/1iZ2vG72pR9pSgnFCxBL4KizVEqHo4qvGH3U4JuYPVTU/edit?pli=1#gid=1839841640)
 
 [Capstone Project Week Google Doc](https://docs.google.com/document/d/1Sgcrhfpx5P4Qa4_1QrEcSkkpessFukII14lXSTxThqA/edit)
 
