@@ -1,6 +1,6 @@
-# Tom's Select TA Links / Resources
+# Tom's Premium TA Links / Resources
 
-## Nov 08 Online Cohort 2021
+## Nov 08 Part-Time Cohort 2021
 
 [east sheet](https://docs.google.com/spreadsheets/d/1ryTGqfrB3uXNuvgYL_HOfYh8C_Nh5ZK9GRmeQJFI18s/edit#gid=317000197)
 
@@ -48,6 +48,9 @@
 
 [aa_update](https://github.com/appacademy/SWEO-Part-Time-Resources/tree/main/1-Module/1-week/1-day)
 
+***
+
+# Previous Cohort Links
 
 ## June 01 Online Cohort 2021
 
