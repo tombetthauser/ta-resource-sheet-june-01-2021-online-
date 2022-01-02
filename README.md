@@ -14,6 +14,12 @@
 
 ***
 
+[west github team repos](https://github.com/orgs/appacademy/teams/2021-11-08-part-time-pst-students/repositories)
+
+[east github team repos](https://github.com/orgs/appacademy/teams/2021-11-08-part-time-est-students/repositories)
+
+***
+
 [holiday dates](https://docs.google.com/spreadsheets/d/1OdHQ-yOrA6F0EPybAU_9qfF_jwkP-q9X5ZhscpbL8-c/edit#gid=0)
 
 [west sheet (duplicate?)](https://docs.google.com/spreadsheets/d/1ujJjSkosJyrvufBK0n6DWXRPHXkkKKg59TCkwNg8Iy0/edit#gid=146399371)
